@@ -7,7 +7,7 @@
 <!--- 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!-->
 - 🌱 I’m currently learning Web API Development 🤣
 - 👯 I’m looking to collaborate with my team members
-- 🥅 2021 Goals: Data Warehouse implementation(SAP BW/4HANA)
+- 🥅 2021 Goals: Data Warehouse implementation(SAP BW/4HANA) & Achieve Intermediate level on Web API Development
 - ⚡ Fun fact: I love to travel and hangout with my friends
 
 ### Connect with me:
