@@ -24,7 +24,7 @@
 <img align="left" alt="Android Studio" width="30px" src="https://github.com/mshsusmoy/image_source/blob/main/Untitled-10.png" />
 <img align="left" alt="PowerBI" width="26px" src="https://github.com/mshsusmoy/image_source/blob/main/powerbi.svg" />
 <img align="left" alt="SAP Analytics Cloud" width="36px" src="https://github.com/mshsusmoy/image_source/blob/main/sap-logo-svg.svg" />
-<img align="left" alt="MS SQL SERVER" width="35px" src="https://github.com/mshsusmoy/image_source/blob/main/microsoft-sql-server-seeklogo.com.svg" />
+<img align="left" alt="MS SQL SERVER" width="50px" height="30px" src="https://github.com/mshsusmoy/image_source/blob/main/microsoft-sql-server-seeklogo.com.svg" />
 <img align="left" alt="Oracle" width="50px" src="https://github.com/mshsusmoy/image_source/blob/main/oracle-seeklogo.com.svg" />
 <img align="left" alt="GitHub" width="26px" src="https://github.com/mshsusmoy/image_source/blob/main/GitHub-Mark-Light-120px-plus.png" />
 <img align="left" alt="Python" width="26px" src="https://github.com/mshsusmoy/image_source/blob/main/python-seeklogo.com.svg" />
