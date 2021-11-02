@@ -5,15 +5,15 @@
 ## I'm a Developer, Data Analyst and BI Expert!!
 
 <!--- 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!-->
-- 🌱 I’m currently learning Web API Development 🤣
+- 🌱 I’m currently learning <b>Web API Development</b> using <b>ASP.NET Core</b> 
 - 👯 I’m looking to collaborate with my team members
 - 🥅 2021 Goals: Data Warehouse implementation(SAP BW/4HANA) & Achieve Intermediate level on Web API Development
 - ⚡ Fun fact: I love to travel and hangout with my friends
 
-### Connect with me:
+<!---### Connect with me:
 
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin] !-->
 
 
 <br /> 
@@ -29,8 +29,6 @@
 <img align="left" alt="GitHub" width="26px" src="https://github.com/mshsusmoy/image_source/blob/main/GitHub-Mark-Light-120px-plus.png" />
 <img align="left" alt="Python" width="26px" src="https://github.com/mshsusmoy/image_source/blob/main/python-seeklogo.com.svg" />
 <img align="left" alt="JavaScript" width="26px" src="https://github.com/mshsusmoy/image_source/blob/main/javascript-js-seeklogo.com.svg" />
-
-
 <br />
 <br />
 
