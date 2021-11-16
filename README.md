@@ -2,7 +2,7 @@
 
 [Twitter Follow](https://img.shields.io/twitter/follow/sh_susmoy?color=1DA1F2&logo=twitter&style=for-the-badge)
 
-## I'm a Developer, Data Analyst and BI Expert!!
+## I'm a Developer, Data Analyst and Business Intelligence Professional!!
 
 <!--- 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!-->
 - 🌱 I’m currently learning <b>Web API Development</b> using <b>ASP.NET Core</b> 
