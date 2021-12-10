@@ -23,7 +23,8 @@
 <br /> 
 
 ### Languages and Tools:
-
+<img align="left" alt="C#" width="26px" src="https://github.com/mshsusmoy/image_source/blob/main/c.svg" />
+<img align="left" alt="Angular" width="26px" src="https://github.com/mshsusmoy/image_source/blob/main/angular.png" />
 <img align="left" alt="Python" width="26px" src="https://github.com/mshsusmoy/image_source/blob/main/python-seeklogo.com.svg" />
 <img align="left" alt="Android Studio" width="30px" src="https://github.com/mshsusmoy/image_source/blob/main/Untitled-10.png" />
 <img align="left" alt=".NET CORE" width="30px" src="https://github.com/dotnet/docs/blob/cb475ed45f881e9462e34764480d3b0ebce85e91/docs/images/hub/netcore.svg"/>
