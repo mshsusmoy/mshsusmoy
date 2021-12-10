@@ -1,7 +1,7 @@
 ### Hi there, I'm Sabiqul Haque Susmoy 👋
 
 [Twitter Follow](https://img.shields.io/twitter/follow/sh_susmoy?color=1DA1F2&logo=twitter&style=for-the-badge)
-<img align="left" alt="C#" width="100px" src="https://img.shields.io/twitter/follow/sh_susmoy?color=1DA1F2&logo=twitter&style=for-the-badge"/>
+<img align="left" alt="C#" width="200px" src="https://img.shields.io/twitter/follow/sh_susmoy?color=1DA1F2&logo=twitter&style=for-the-badge"/>
 
 ## I'm a Software Engineer, Business Intelligence Professional.
 
