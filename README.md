@@ -1,7 +1,6 @@
 ### Hi there, I'm Sabiqul Haque Susmoy 👋
 
-<!---[Twitter Follow](https://img.shields.io/twitter/follow/sh_susmoy?color=1DA1F2&logo=twitter&style=for-the-badge)!-->
-<img align="left" alt="C#" width="200px" src="https://img.shields.io/twitter/follow/sh_susmoy?color=1DA1F2&logo=twitter&style=for-the-badge"/>
+
 
 ## I'm a Software Engineer, Business Intelligence Professional.
 
@@ -38,7 +37,9 @@
 <img align="left" alt="JavaScript" width="26px" src="https://github.com/mshsusmoy/image_source/blob/main/javascript-js-seeklogo.com.svg" />
 <br />
 <br />
-
+<br/>
+<!---[Twitter Follow](https://img.shields.io/twitter/follow/sh_susmoy?color=1DA1F2&logo=twitter&style=for-the-badge)!-->
+<img align="left" alt="C#" width="200px" src="https://img.shields.io/twitter/follow/sh_susmoy?color=1DA1F2&logo=twitter&style=for-the-badge"/>
 
 [twitter]: shorturl.at/wzWY7
 [linkedin]: shorturl.at/ryKZ2
