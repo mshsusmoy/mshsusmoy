@@ -5,8 +5,11 @@
 ## I'm a Software Engineer, Business Intelligence Professional.
 
 <!--- 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!-->
-- 🌱 I’m currently developing <b>Restful Web API</b> using <b>ASP.NET Core</b> ,<b> Web Application using .NET Core</b> and <b>Android Application following MVVM</b>
-- 🏁 Problem Solving (Python)
+- 🌱 Resolution of 2022: <ul>
+                              <b>🏁 Full Stack: Angular Front-End & DotNet Core Back-End</b>
+                              <b>🏁 Android Application Development</b>
+                              <b>🏁 Leetcode Problem Solving</b>
+                          <ul>
 - 👯 I’m looking to collaborate with my team members
 - 🥅 2021 Goals: Data Warehouse implementation(SAP BW/4HANA) & Achieve Intermediate level on Web API Development
 - ⚡ Fun fact: I love to travel and hangout with my friends
