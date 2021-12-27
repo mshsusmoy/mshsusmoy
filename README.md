@@ -11,7 +11,9 @@
                               <li><b>🏁 Leetcode Problem Solving</b></li>
                               <li><b>🏁 Data Warehouse (SAP BW/4HANA) & SAP Analytics Cloud Implementation<b></li>
                           <ul>
-- ⚡ Fun fact: I love to travel and hangout with my friends
+                            <ul>
+                              <li><b>⚡ Fun fact: I love to travel and hangout with my friends</b></li>
+                          <ul>
 
 <!---### Connect with me:
 
