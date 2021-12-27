@@ -5,11 +5,11 @@
 ## I'm a Software Engineer, Business Intelligence Professional.
 
 <!--- 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!-->
-- 🌱 Resolution of 2022: <ul>
-                              <li><b>🏁 Full Stack: Angular Front-End & DotNet Core Back-End</b></li>
-                              <li><b>🏁 Android Application Development</b></li>
-                              <li><b>🏁 Leetcode Problem Solving</b></li>
-                              <li><b>🏁 Data Warehouse (SAP BW/4HANA) & SAP Analytics Cloud Implementation<b></li>
+- <b>🌱 Resolution of 2022:</b> <ul>
+                              <li>🏁 Full Stack: Angular Front-End & DotNet Core Back-End</li>
+                              <li>🏁 Android Application Development</li>
+                              <li>🏁 Leetcode Problem Solving</li>
+                              <li>🏁 Data Warehouse (SAP BW/4HANA) & SAP Analytics Cloud Implementation</li>
                           </ul>
 - <b>⚡ Fun fact: I love to travel and hangout with my friends</b>
 
