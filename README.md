@@ -6,9 +6,9 @@
 
 <!--- 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!-->
 - 🌱 Resolution of 2022: <ul>
-                              <b>🏁 Full Stack: Angular Front-End & DotNet Core Back-End</b>
-                              <b>🏁 Android Application Development</b>
-                              <b>🏁 Leetcode Problem Solving</b>
+                              <li><b>🏁 Full Stack: Angular Front-End & DotNet Core Back-End</b></li>
+                              <li><b>🏁 Android Application Development</b></li>
+                              <li><b>🏁 Leetcode Problem Solving</b></li>
                           <ul>
 - 👯 I’m looking to collaborate with my team members
 - 🥅 2021 Goals: Data Warehouse implementation(SAP BW/4HANA) & Achieve Intermediate level on Web API Development
