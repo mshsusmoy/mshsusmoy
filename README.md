@@ -9,9 +9,8 @@
                               <li><b>🏁 Full Stack: Angular Front-End & DotNet Core Back-End</b></li>
                               <li><b>🏁 Android Application Development</b></li>
                               <li><b>🏁 Leetcode Problem Solving</b></li>
+                              <li><b>🏁 Data Warehouse (SAP BW/4HANA) & SAP Analytics Cloud Implementation<b></li>
                           <ul>
-- 👯 I’m looking to collaborate with my team members
-- 🥅 2021 Goals: Data Warehouse implementation(SAP BW/4HANA) & Achieve Intermediate level on Web API Development
 - ⚡ Fun fact: I love to travel and hangout with my friends
 
 <!---### Connect with me:
