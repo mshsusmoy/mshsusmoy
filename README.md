@@ -6,8 +6,7 @@
 
 <!--- 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!-->
 - <b>🌱 Resolution of 2022:</b> <ul>
-                              <li> Full Stack: Angular Front-End & DotNet Core Back-End</li>
-                              <li> Android Application Development</li>
+                              <li> Full Stack Web App Development(at least 2 live applications): Angular Front-End & DotNet Core Back-End</li>
                               <li> Leetcode Problem Solving</li>
                               <li> Data Warehouse (SAP BW/4HANA) & SAP Analytics Cloud Implementation</li>
                           </ul>
