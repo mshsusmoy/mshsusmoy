@@ -8,6 +8,7 @@
 - <b>🌱 Resolution of 2022:</b> <ul>
                               <li> Full Stack Web App Development(at least 2 live applications): Angular Front-End & DotNet Core Back-End</li>
                               <li> Leetcode Problem Solving</li>
+                              <li> SAP ABAP Development Course Completion and Practice</li>
                               <li> Data Warehouse (SAP BW/4HANA) & SAP Analytics Cloud Implementation</li>
                           </ul>
                           
