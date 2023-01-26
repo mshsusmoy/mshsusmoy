@@ -2,14 +2,13 @@
 
 
 
-## I'm a Software Engineer, Business Intelligence Professional.
+## I'm a Data & Analytics Expert, Business Intelligence Professional!
 
-<!--- 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!-->
-- <b>🌱 Resolution of 2022:</b> <ul>
-                              <li> Full Stack Web App Development(at least 2 live applications): Angular Front-End & DotNet Core Back-End</li>
-                              <li> Leetcode Problem Solving</li>
-                              <li> SAP ABAP Development Course Completion and Practice</li>
-                              <li> Data Warehouse (SAP BW/4HANA) & SAP Analytics Cloud Implementation</li>
+<!--- 🔭 -->
+- <b>🌱 Resolution of 2023:</b> <ul>
+                              <li> Working with end to end data lifecycle project on Cloud(Azure/Oracle) </li>
+                              <li> Leetcode Problem Solving </li>
+                              <li> Learning Personal Finance </li>
                           </ul>
                           
 - <b>⚡ Fun fact: Love to Travel</b>
