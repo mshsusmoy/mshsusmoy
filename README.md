@@ -2,7 +2,7 @@
 
 
 
-## I'm a Data & Analytics Expert, Experience Data Engineering, Data Warehousing and Business Intelligence Professional!
+## I'm a Data & Analytics Expert, Experienced in Data Engineering, Data Warehousing and Business Intelligence Professional!
 
 <!--- 🔭 -->
 - <b>🌱 Resolution of 2025:</b> <ul>
