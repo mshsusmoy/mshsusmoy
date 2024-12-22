@@ -2,13 +2,13 @@
 
 
 
-## I'm a Data & Analytics Expert, Business Intelligence Professional!
+## I'm a Data & Analytics Expert, Experience Data Engineering, Data Warehousing and Business Intelligence Professional!
 
 <!--- 🔭 -->
-- <b>🌱 Resolution of 2023:</b> <ul>
-                              <li> Working with end to end data lifecycle project on Cloud(Azure/Oracle) </li>
-                              <li> Leetcode Problem Solving </li>
-                              <li> Learning Personal Finance </li>
+- <b>🌱 Resolution of 2025:</b> <ul>
+                              <li> Leveraging LLM technology to implement and integrate into business applications for enhanced efficiency  </li>
+                              <li> Creating a pre-built solution for data extraction from ERP system, implementing Medallion Architecture and Interative Analytical Dashboards with Key Insights </li>
+                              <li> Daily 5 Times Prayer </li>
                           </ul>
                           
 - <b>⚡ Fun fact: Love to Travel</b>
